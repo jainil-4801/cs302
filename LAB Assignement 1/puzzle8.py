@@ -1,4 +1,4 @@
-# Solves a randomized 8-puzzle using A* algorithm with plug-in heuristics
+# Solves a given 8-puzzle using A* algorithm with plug-in heuristics
 
 import random
 import math
