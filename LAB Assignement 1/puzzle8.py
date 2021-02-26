@@ -126,7 +126,7 @@ def manhattan(state):
 			ans += abs(i-x)+abs(j-y)
 	return ans 
 
-def not_at_correct_position(state):
+def misplaced_tiles(state):
 
 	ans = 0
 	for i in range(3):
