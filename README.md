@@ -1,2 +1,2 @@
 # cs302
-AI Assignment codes
+AI-MIDSEM Assignment codes
