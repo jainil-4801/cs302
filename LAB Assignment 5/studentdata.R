@@ -165,10 +165,3 @@ for (i in u)
 
 }
 print(mean(arrq))
-
-
-
-
-
-
-

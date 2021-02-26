@@ -1,3 +1,5 @@
+# NIM game 
+
 from math  import inf
 import sys
 import copy
