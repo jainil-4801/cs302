@@ -1,5 +1,5 @@
 # CS-302
-AI-MIDSEM Assignment codes
+AI-MIDSEM and AI-ENDSEM Assignment codes
 ## Group Name :- PSYSTRIKE
 
 Group Members :- 
