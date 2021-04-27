@@ -1,4 +1,4 @@
-# cs302
+# CS-302
 AI-MIDSEM Assignment codes
 ## Group Name :- PSYSTRIKE
 
